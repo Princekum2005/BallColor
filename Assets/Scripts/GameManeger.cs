@@ -25,7 +25,7 @@ public class GameManeger : MonoBehaviour
         mainPanel.SetActive(true);
         finishPanel.SetActive(false);
         changeBallPanel.SetActive(false);
-        ballDeta.redBall.SetActive(false);
+        // ballDeta.redBall.SetActive(false);
     }
     public void PlayButton()
     {
